@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lalka Bolesława Prusa</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link do pliku CSS -->
+</head>
+<body>
+    <header>
+        <h1>Lalka Bolesława Prusa</h1>
+        <nav>
+            <ul>
+                <li><a href="#autor">O autorze</a></li>
+                <li><a href="#fabula">Fabuła</a></li>
+                <li><a href="#tematy">Tematy</a></li>
+                <li><a href="#symbolika">Symbolika</a></li>
+                <li><a href="#analiza">Analiza</a></li>
+                <li><a href="#cytaty">Cytaty</a></li>
+                <li><a href="#bibliografia">Bibliografia</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="autor">
+        <h2>O autorze</h2>
+        <p>Bolesław Prus był jednym z najwybitniejszych pisarzy polskich...</p>
+    </section>
+
+    <section id="fabula">
+        <h2>Fabuła</h2>
+        <p>Akcja "Lalki" rozgrywa się w Warszawie XIX wieku...</p>
+    </section>
+
+    <section id="tematy">
+        <h2>Tematy</h2>
+        <ul>
+            <li>Miłość i pragnienie</li>
+            <li>Krytyka społeczna</li>
+            <li>Konflikty klasowe</li>
+            <li>Ambicja i rozczarowanie</li>
+        </ul>
+    </section>
+
+    <section id="symbolika">
+        <h2>Symbolika</h2>
+        <p>Lalka w powieści symbolizuje...</p>
+    </section>
+
+    <section id="analiza">
+        <h2>Analiza</h2>
+        <p>Prus używa różnych technik narracyjnych...</p>
+    </section>
+
+    <section id="cytaty">
+        <h2>Cytaty</h2>
+        <blockquote>"Cytat z Lalki..."</blockquote>
+    </section>
+
+    <section id="bibliografia">
+        <h2>Bibliografia</h2>
+        <p>Lista źródeł i literatury dotyczącej "Lalki".</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Lalka Bolesława Prusa</p>
+    </footer>
+</body>
+</html>
